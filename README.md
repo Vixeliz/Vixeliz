@@ -1,4 +1,19 @@
-### MueVoid's Profile
+### Hi there, I'm MueVoid(Real name Max) 👋
 
-## Current Projects
-Mainly vinox an opensource gles2 framework for gamedev and tool dev.
+## Some things about my work environment
+
+- 💻 On a laptop using windows(would like to switch to linux full time but VR is my passion)
+- 🔭 I’m currently working on a [Vinox][https://github.com/muevoid/Vinox]!
+- 🌱 I’m currently learning luajit.
+- 🥅 2021 Goals: Make a prototype for a vr sandbox game that is cross platform.
+- ⚡ Fun fact: I love programming(in c, lua, and go), drawing, playing vr.
+
+### Languages and Tools:
+
+Todo
+
+<br />
+<br />
+
+
+<img align="left" alt="MueVoid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MueVoid&show_icons=true&hide_border=true" />
