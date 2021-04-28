@@ -3,8 +3,8 @@
 ## Some things about my work environment
 
 - 💻 On a laptop using windows(would like to switch to linux full time but VR is my passion)
-- 🔭 I’m currently working on a [Vinox][https://github.com/muevoid/Vinox]!
-- 🌱 I’m currently learning luajit.
+- 🔭 I’m currently working on a Vinox(A voxel vr sandbox game)!
+- 🌱 I’m currently learning luajit and [lovr](https://lovr.org).
 - 🥅 2021 Goals: Make a prototype for a vr sandbox game that is cross platform.
 - ⚡ Fun fact: I love programming(in c, lua, and go), drawing, playing vr.
 
