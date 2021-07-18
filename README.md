@@ -4,9 +4,9 @@
 
 - 💻 On a laptop using windows(would like to switch to linux full time but VR is my passion) however I heavily use wsl and other cli tools!
 - 🔭 I’m currently working on Vinox(A voxel vr sandbox game)!
-- 🌱 I’m currently learning luajit and [lovr](https://lovr.org).
+- 🌱 I’m currently learning c# and godot!.
 - 🥅 2021 Goals: Make a prototype for a vr sandbox game that is cross platform.
-- ⚡ Hobbies: I love programming(in c, lua, and go), drawing, playing vr.
+- ⚡ Hobbies: I love programming(in c, c#, and lua), drawing, playing vr.
 
 ### Languages and Tools:
 
