@@ -2,7 +2,7 @@
 
 ## Some things about my work environment
 
-- 💻 On a laptop using windows(would like to switch to linux full time but VR is my passion) however I heavily use wsl and other cli tools!
+- 💻 On a laptop using linux(arch linux :))!
 - 🔭 I’m currently working on Vinox(A voxel vr sandbox game)!
 - 🌱 I’m currently learning c# and godot!.
 - 🥅 2021 Goals: Make a prototype for a vr sandbox game that is cross platform.
