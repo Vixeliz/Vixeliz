@@ -1,4 +1,4 @@
-### Hi there, I'm MueVoid(Real name Max) 👋
+### Hi there, I'm Vixel(Real name Mylah) 👋
 
 ## Some things about my work environment
 
