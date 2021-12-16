@@ -2,9 +2,9 @@
 
 ## Some things about my work environment
 
-- 💻 On a laptop using linux(arch linux :))!
-- 🔭 I’m currently working on Vinox(A voxel vr sandbox game)!
-- 🌱 I’m currently learning c# and godot!.
+- 💻 On a android tablet using termux and other dev tools!
+- 🔭 I’m currently working on Vinox(A voxel sandbox game)!
+- 🌱 I’m currently learning lua and love2d!.
 - 🥅 2021 Goals: Make a prototype for a vr sandbox game that is cross platform.
 - ⚡ Hobbies: I love programming(in c, c#, and lua), drawing, playing vr.
 
