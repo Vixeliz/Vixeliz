@@ -16,4 +16,4 @@ Todo
 <br />
 
 
-<img align="left" alt="Vixeliz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vixeliz&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+<img align="left" alt="Vixeliz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vixeliz&show_icons=true&hide_border=true" />
