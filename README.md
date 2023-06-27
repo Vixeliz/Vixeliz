@@ -2,9 +2,8 @@
 
 ## Some things about my work environment
 
-- 💻 Using a macbook working on various rust projects.
-- 🔭 I’m currently working on Vinox(A voxel sandbox game)!
-- 🌱 I’m currently learning rust and bevy in particular but also some other libraries!.
+- 💻 Using a laptop running linux working on various rust projects.
+- 🔭 I’m currently working on a few different projects most notably helping maintain ggez and a voxel survival game called vinox.
 - 🥅 2023 Goals: Make a prototype for a sandbox game that is cross platform.
 - ⚡ Hobbies: I love programming(mainly in rust), low poly modeling and pixel art, playing games.
 
@@ -23,4 +22,4 @@
 <br />
 
 
-<img align="left" alt="Vixeliz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vixeliz&show_icons=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+<img align="left" alt="Vixeliz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vixeliz&show_icons=true&" />
